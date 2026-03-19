@@ -1,1 +1,1 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+This repository contains the source code for Seou Choi's academic website. The current version adapts the existing static site structure while keeping the original media assets as temporary placeholders.
