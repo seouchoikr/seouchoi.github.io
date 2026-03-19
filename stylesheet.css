@@ -111,17 +111,26 @@ h2 {
 
 .one {
   width: 160px;
-  height: 160px;
+  height: 120px;
   position: relative;
+  overflow: hidden;
 }
 
 .two {
   width: 160px;
-  height: 160px;
+  height: 120px;
   position: absolute;
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
   -webkit-transition: opacity .2s ease-in-out;
+}
+
+.project-thumb {
+  width: 160px;
+  height: 120px;
+  object-fit: contain;
+  display: block;
+  background-color: #fff;
 }
 
 .fade {
