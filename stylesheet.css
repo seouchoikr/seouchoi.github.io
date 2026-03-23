@@ -133,6 +133,21 @@ h2 {
   background-color: #fff;
 }
 
+.quantum-box {
+  width: 320px;
+  height: 270px;
+}
+
+.quantum-overlay {
+  width: 320;
+  height: 270px;
+}
+
+.quantum-thumb {
+  width: 320px;
+  height: 270px;
+}
+
 .fade {
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
