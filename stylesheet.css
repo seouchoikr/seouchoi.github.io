@@ -110,15 +110,15 @@ h2 {
 }
 
 .one {
-  width: 150px;
-  height: 180px;
+  width: 120px;
+  height: 150px;
   position: relative;
   overflow: hidden;
 }
 
 .two {
-  width: 150px;
-  height: 180px;
+  width: 120px;
+  height: 150px;
   position: absolute;
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
@@ -126,8 +126,8 @@ h2 {
 }
 
 .project-thumb {
-  width: 150px;
-  height: 180px;
+  width: 120px;
+  height: 150px;
   object-fit: contain;
   display: block;
   background-color: #fff;
